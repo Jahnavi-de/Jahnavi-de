@@ -39,9 +39,6 @@
   <a href="https://www.linkedin.com/in/jahnavi-srivastava-93386a309/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="https://github.com/Jahnavi-de" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  </a>
 </p>
 
 ---
