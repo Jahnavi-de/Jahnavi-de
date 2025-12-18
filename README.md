@@ -27,9 +27,9 @@
 
 ### 🌱 Currently Learning
 
-- Full Stack Web Development  
+- Machine Learning
 - Mastering Data Structures & Algorithms  
-- Exploring backend frameworks & database design
+- Exploring models used for high accuracy
 
 ---
 
