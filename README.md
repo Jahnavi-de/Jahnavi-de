@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Jahnavi Srivastava</h1>
 
 <p align="center">
-  🚀 A passionate B.Tech student exploring the world of Web Development & Data Structures and Algorithms.
+  🚀 A passionate B.Tech student exploring the world of Machine Learning & Data Structures and Algorithms.
 </p>
 
 ---
